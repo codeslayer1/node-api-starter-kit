@@ -1,0 +1,59 @@
+{
+  "name": "node-api-starter-kit",
+  "version": "1.0.0",
+  "description": "Minimal Light Weight Starter Kit for Node.js based API backend with built-in support for MySQL (using Knex), Redis and Socket.io",
+  "keywords": [
+    "node.js",
+    "node.js starter kit",
+    "node.js api",
+    "node.js api sample",
+    "starter-kit",
+    "node starter kit",
+    "node api starter kit",
+    "node.js mysql",
+    "node.js redis",
+    "node.js socket.io",
+    "mysql redis socket starter kit"
+  ],
+  "homepage": "https://github.com/codeslayer1/node-api-starter-kit",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/codeslayer1/node-api-starter-kit.git"
+  },
+  "maintainers": [
+    "codeslayer1"
+  ],
+  "author": "codeslayer1",
+  "bugs": {
+    "url": "https://github.com/codeslayer1/node-api-starter-kit/issues"
+  },
+  "licenses": "MIT",
+  "scripts": {
+    "debug": "node debug app.js",
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "body-parser": "~1.17.1",
+    "compression": "^1.6.2",
+    "cookie-parser": "~1.4.3",
+    "cors": "^2.8.3",
+    "debug": "~2.6.3",
+    "express": "~4.15.2",
+    "forever": "^0.15.3",
+    "helmet": "^3.5.0",
+    "jade": "~1.11.0",
+    "knex": "^0.12.9",
+    "morgan": "~1.9.1",
+    "mysql": "^2.13.0",
+    "redis-connection-manager": "^1.0.1",
+    "request": "^2.81.0",
+    "require-all": "^2.2.0",
+    "serve-favicon": "~2.4.2",
+    "socket.io": "^2.2.0",
+    "socket.io-redis": "^5.2.0",
+    "sqlstring": "^2.3.1"
+  },
+  "devDependencies": {
+    "rimraf": "^2.6.3"
+  }
+}
