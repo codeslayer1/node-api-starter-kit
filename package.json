@@ -33,12 +33,12 @@
     "start": "node app.js"
   },
   "dependencies": {
-    "body-parser": "~1.17.1",
+    "body-parser": "~1.20.1",
     "compression": "^1.6.2",
     "cookie-parser": "~1.4.3",
     "cors": "^2.8.3",
     "debug": "~2.6.3",
-    "express": "~4.15.2",
+    "express": "~4.15.5",
     "forever": "^0.15.3",
     "helmet": "^3.5.0",
     "jade": "~1.11.0",
