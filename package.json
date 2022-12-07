@@ -38,7 +38,7 @@
     "cookie-parser": "~1.4.3",
     "cors": "^2.8.3",
     "debug": "~2.6.3",
-    "express": "~4.15.2",
+    "express": "~4.17.3",
     "forever": "^0.15.3",
     "helmet": "^3.5.0",
     "jade": "~1.11.0",
